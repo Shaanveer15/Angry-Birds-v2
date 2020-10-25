@@ -1,2 +1,2 @@
-# Angry-Birds-v2
-Made on Visual Code Studio
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
